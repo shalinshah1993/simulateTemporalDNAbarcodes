@@ -1,5 +1,5 @@
 # (simulate) Temporal DNA barcodes
-These software scripts are a part of the temporal DNA barcoding framework. It is a single-molecule imaging techqniue that uses time-domain to encode information for optical multiplexing. Although, the scripts were developed to our framework, they can be used for simulating any smFISH tpye where kinetics of single-molecule are required to be simulated.
+These software scripts are a part of the temporal DNA barcoding framework. It is a single-molecule imaging techqniue that uses time-domain to encode information for optical multiplexing. Although, the scripts were developed to our framework, they can be used for simulating any smFISH type where kinetics of single-molecule are required to be simulated.
 
 If you find our scripts helpful, please cite our paper(s):
 
